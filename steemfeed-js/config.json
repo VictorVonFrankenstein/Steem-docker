@@ -1,0 +1,8 @@
+{
+    "node": "https://api.steemit.com/",
+    "name": "symbionts",
+    "wif": "5KUzipY57uVu5E8RXJQ8xTqw6JGif4iaa2ihDKMY4LA42VnT4ta",
+    "interval": 10,
+    "peg": false,
+    "peg_multi": 1.0
+}
